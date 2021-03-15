@@ -12,8 +12,8 @@ This tools crack or bruteforce attack facebook update!
 $ pkg install python -y
 $ pkg install python3
 $ pkg install git -y
-$ git clone https://github.com/Latip176/crackv3
-$ cd crackv3
+$ git clone https://github.com/zakiahsanS/Crack
+$ cd Crack
 $ pip install pyfiglet
 $ pip install requests
 $ pip install bs4
@@ -23,11 +23,11 @@ $ python3 crack.py
 ```TXT
 Allah Swt
 Rizal XD
+Latip (Hekel Gay)
 Kang Pacman (Affandi)
 RizkyDev (Hekel Pro)
 Dan Semua Baboe / Temen Gua
 ```
-# sponsored
-<a href="https://github.com/Randy1234566">Randy1234566</a>
+
 # report
-Jika Menemukan Bug Atau Error Dan Kesulitan / Ada Kendala Silahkan Hubung <a href="https://wa.me/+6283870396203?text=Hallo">WhatsApp Author</a>
+Jika Menemukan Bug Atau Error Dan Kesulitan / Ada Kendala Silahkan Hubung <a href="https://wa.me/+6283144780782?text=Hallo">WhatsApp Author</a>
